@@ -1,0 +1,5 @@
+/home/gopal/docker/dockerworkspace/speed/src/main/java/com/spectrum/speed/api/InfoEndpoint.java
+/home/gopal/docker/dockerworkspace/speed/src/main/java/com/spectrum/speed/api/HealthCheckApiController.java
+/home/gopal/docker/dockerworkspace/speed/src/main/java/com/spectrum/speed/config/RootConfig.java
+/home/gopal/docker/dockerworkspace/speed/src/main/java/com/spectrum/speed/init/SpeedWebApplicationInitializer.java
+/home/gopal/docker/dockerworkspace/speed/src/main/java/com/spectrum/speed/config/WebMvcConfig.java
